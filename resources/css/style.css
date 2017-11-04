@@ -1,0 +1,51 @@
+body {
+  background-color: black;
+  text-align: center, horizontal;
+}
+h1 {
+  color: white;
+  text-align: center;
+  font-family: Verdana;
+	font-size:50px;
+  font-weight: normal;
+}
+.new {
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: center;
+  color: gray;
+}
+.download {
+  text-align: center;
+  font-size: 16px;
+  font-family: Verdana;
+  font-weight; normal;
+}
+a:visited{
+  color: Aquamarine;
+  }
+img {
+    display: block;
+    margin: 0 auto;
+}
+video {
+    display: block;
+    margin: 0 auto;
+}
+.guide {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  text-align: center;
+  color: white;
+}
+.copyright {
+  color: gray;
+  text-align: right;
+  font-size: 16px;
+  font-family: Verdana;
+  font-weight; normal;
+}
+img {
+  padding-top: 0.3cm
+}
